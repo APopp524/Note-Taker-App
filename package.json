@@ -9,6 +9,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
+    "-": "0.0.1",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "g": "^2.0.1",
+    "npm": "^6.14.8",
+    "path": "^0.12.7"
   }
 }

@@ -10,9 +10,9 @@ Run `npm install` to install all dependencies. To use the application locally, r
 The Team Profile Generator creates a webpage that displays a team's basic info and provides quick access to emails and GitHub profiles.
 
 ### Technologies That Were Used
-Node.js | JavaScript | JQuery | Bootstrap | CSS | HTML
+Heroku | Express.js | Node.js | JavaScript | JQuery | Bootstrap | CSS | HTML
 
-### Screenshots
+### Demo
 
 
 
